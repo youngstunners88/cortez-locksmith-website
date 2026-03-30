@@ -1,0 +1,20 @@
+{
+  "businessName": "Cortez Locksmith",
+  "category": "locksmith",
+  "brandColors": {
+    "primary": "#8E44AD",
+    "secondary": "#BB8FCE",
+    "accent": "#F39C12",
+    "dark": "#6C3483",
+    "light": "#F5EEF8"
+  },
+  "tagline": "24/7 Peace of Mind",
+  "services": [
+    "Emergency Unlock",
+    "Key Cutting",
+    "Lock Installation",
+    "Security Systems",
+    "Safe Opening",
+    "Rekeying"
+  ]
+}
